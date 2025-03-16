@@ -1,4 +1,4 @@
-package ndys.high_level;
+package ndys.high_level.stream;
 
 import org.junit.jupiter.api.Test;
 
