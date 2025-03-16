@@ -1,4 +1,4 @@
-package ndys.high_level.fork_join;
+package ndys.high_level;
 
 import org.junit.jupiter.api.Test;
 
